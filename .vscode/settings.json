@@ -1,0 +1,23 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.codeAnalysis.runAutomatically": true,
+    "files.associations": {
+      "jansson.h": "c",
+      "inet.h": "c",
+      "string.h": "c",
+      "stdio.h": "c"
+    },
+    "cSpell.words": [
+      "avachi",
+      "decref",
+      "gboolean",
+      "gchar",
+      "gpointer",
+      "hwaddr",
+      "itemc",
+      "liststore",
+      "nmcli",
+      "pdata",
+      "phind"
+    ]
+  }
