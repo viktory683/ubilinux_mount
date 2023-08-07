@@ -17,9 +17,9 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
-    GtkWindow* topWindow = GTK_WINDOW(gtk_builder_get_object(builder, "topWindow"));
+    GtkWidget* topWindow = GTK_WIDGET(gtk_builder_get_object(builder, "topWindow"));
 
-    gtk_widget_show_all(GTK_WIDGET(topWindow));
+    gtk_widget_show_all(topWindow);
     gtk_main();
 
     return 0;

@@ -53,6 +53,7 @@ dkms.conf
 
 CMakeFiles/
 cmake_install.cmake
-CmakeChache.txt
+CMakeCache.txt
 design.glade~
 services
+Makefile
